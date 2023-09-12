@@ -1,23 +1,6 @@
----
-title: Flask
-description: A popular minimal server framework for Python
-tags:
-  - python
-  - flask
----
+## TJS-Server: Table Joining Service for Vector Tiles Spatial Framework
 
-# Python Flask Example
+The TJS-Server prototype was developed to explore the potential of utilizing vectortile caches as framework data for a TJS API based on OGC standards. This project builds upon the MSC thesis by Sharon Chawanji, which can be found [here](https://cartographymaster.eu/wp-content/theses/2020_Chawanji_Thesis.pdf).
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
+We are currently in the process of developing comprehensive documentation on how to use the API. You can visit the demo page [here](https://schawanji.herokuapp.com/) for a preview of the functionality.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
-
-## ✨ Features
-
-- Python
-- Flask
-
-## 💁‍♀️ How to use
-
-- Install Python requirements `pip install -r requirements.txt`
-- Start the server for development `python3 main.py`
